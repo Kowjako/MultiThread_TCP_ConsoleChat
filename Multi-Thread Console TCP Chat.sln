@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi-Thread Console TCP Chat", "Multi-Thread Console TCP Chat\Multi-Thread Console TCP Chat.csproj", "{79C60647-1C2F-4101-BC2C-DD4D2DEF7BD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi-Thread Console TCP Client", "Multi-Thread Console TCP Client\Multi-Thread Console TCP Client.csproj", "{0BD34FCD-05DE-4FF3-8644-2C64D3115D86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79C60647-1C2F-4101-BC2C-DD4D2DEF7BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C60647-1C2F-4101-BC2C-DD4D2DEF7BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C60647-1C2F-4101-BC2C-DD4D2DEF7BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C60647-1C2F-4101-BC2C-DD4D2DEF7BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BD34FCD-05DE-4FF3-8644-2C64D3115D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD34FCD-05DE-4FF3-8644-2C64D3115D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD34FCD-05DE-4FF3-8644-2C64D3115D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD34FCD-05DE-4FF3-8644-2C64D3115D86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
